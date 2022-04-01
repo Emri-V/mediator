@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "123BlogMyself"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Things to remember
 
-email: a-mail@mail.mail
+email: emmerbekker1993@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/icon.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
