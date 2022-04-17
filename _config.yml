@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "123BlogMyself"
+title: "123BlogMyselfChrisEkKomVirJou"
 description: > # this means to ignore newlines until "email:"
    Things to remember
 
 email: emmerbekker1993@gmail.com
 #blog logo
-logo: "/assets/images/icon.jpg"
+logo: '/assets/images/icon.jpg'
 float_logo: true # true, false (default)
 
 # blog cover
