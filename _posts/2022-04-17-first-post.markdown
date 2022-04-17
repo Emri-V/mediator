@@ -5,6 +5,7 @@ date:   2022-04-17 14:34:25
 categories: jekyll update
 tags: featured
 image: /assets/article_images/2022-04-17-first-post/banner.jpg
+image2: /assets/article_images/2022-04-17-first-post/banner-mobile.jpg
 ---
 
 Hier ons eerste post!
